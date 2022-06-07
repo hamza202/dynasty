@@ -2173,7 +2173,8 @@ img.lazy-image.loaded {
 
 .ui-menu .ui-menu-item {
     font-size: 20px;
-    border-bottom: 1px solid #e9ebee;
+    border-bottom: 1px solid #222429;
+    color: #999b9f;
 }
 
 .ui-menu .ui-menu-item:last-child {
@@ -13213,7 +13214,17 @@ img.lazy-image.loaded {
 .body-dark .about-section {
     background-color: #1c1e22;
 }
-
+.body-dark .form-group .ui-selectmenu-button.ui-button{
+    background-color: #222429; border-color: #222429;
+}
+.form-group .ui-button .ui-icon:before{
+    color :#fff
+}
+.ui-widget.ui-widget-content{
+    background: #2a2c31;
+    border: 1px solid #2a2c31;
+    border-bottom: 1px solid #222429;
+}
 .body-dark .default-form .form-group input[type="text"],
 .body-dark .default-form .form-group input[type="email"],
 .body-dark .default-form .form-group input[type="password"],

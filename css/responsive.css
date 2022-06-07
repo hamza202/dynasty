@@ -431,7 +431,7 @@
 
   .parallax-section,
   .testimonials-section,
-  .error-section {
+  .error-section,.team-section {
     padding: 80px 0px;
   }
 

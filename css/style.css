@@ -24139,3 +24139,9 @@ img.lazy-image.loaded {
 .portfolio-img-gallery > a + * {
     display: none;
 }
+@media (max-width: 500px) {
+    .main-header .cart-btn{
+        display: flex;
+        margin-right: 15px;
+    }
+}

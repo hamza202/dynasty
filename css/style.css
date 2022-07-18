@@ -17881,6 +17881,12 @@ img.lazy-image.loaded {
     background-color: var(--thm-black);
     min-height: 68px;
 }
+@media only screen and (max-width: 1199px){
+    .fixed-header.main-header .other-links .cart-btn {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
 
 .mainmenu-six.fixed-header .mainmenu-six__inner {
     border-bottom: 0;

@@ -499,3 +499,14 @@
     margin-left: 0;
     margin-right: 10px;
 }
+.testimonials-section .owl-theme .owl-dots{
+    text-align: left;
+}
+.banner-carousel .content-box h1{
+    font-size: 90px;
+    line-height: 1.2;
+}
+.side-menu__social a + a{
+    padding-right: 10px;
+    padding-left: 0;
+}

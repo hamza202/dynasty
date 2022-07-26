@@ -13392,6 +13392,10 @@ img.lazy-image.loaded {
 
 .body-dark .service-block-two .inner-box h5 a {
     color: inherit;
+    height: 60px;
+    display: block;
+    font-size: 27px;
+    text-align: center;
 }
 
 .body-dark .work-tabs .tab-buttons .tab-btn::before,
@@ -24150,4 +24154,13 @@ img.lazy-image.loaded {
         display: flex;
         margin-right: 15px;
     }
+}
+.sponsors-outer{
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+.sponsors-outer .image-box{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }

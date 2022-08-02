@@ -510,3 +510,7 @@
     padding-right: 10px;
     padding-left: 0;
 }
+.service-block .inner-box .icon-box{
+    right: auto;
+    left: 25px;
+}
